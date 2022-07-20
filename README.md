@@ -7,15 +7,19 @@ A new Flutter project.
 audioplayers 1.0.1  | Flutter Package 
 
 ## ScreenShots
-
-Home Screen: ...
+***
+Home Screen:
 ![alt text](https://github.com/HasanxElwan/tokuApp/blob/main/screenshots/Screenshot%202022-06-30%20040440.png "")
-Numbers Screen: ...
+***
+Numbers Screen:
 ![alt text](https://github.com/HasanxElwan/tokuApp/blob/main/screenshots/Screenshot%202022-06-30%20040540.png "")
-Colors Screen: ...
+***
+Colors Screen:
 ![alt text](https://github.com/HasanxElwan/tokuApp/blob/main/screenshots/Screenshot%202022-06-30%20040623.png "")
-Phrases Screen: ...
+***
+Phrases Screen:
 ![alt text](https://github.com/HasanxElwan/tokuApp/blob/main/screenshots/Screenshot%202022-06-30%20040644.png "")
-Family Screen: ...
+***
+Family Screen:
 ![alt text](https://github.com/HasanxElwan/tokuApp/blob/main/screenshots/Screenshot%202022-06-30%20040559.png "")
 
