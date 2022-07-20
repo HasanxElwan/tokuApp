@@ -2,15 +2,20 @@
 
 A new Flutter project.
 
-## Getting Started
+## Tools
 
-This project is a starting point for a Flutter application.
+audioplayers 1.0.1  | Flutter Package 
 
-A few resources to get you started if this is your first Flutter project:
+## ScreenShots
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Home Screen: 
+![alt text](https://github.com/HasanxElwan/tokuApp/blob/main/screenshots/Screenshot%202022-06-30%20040440.png "")
+Numbers Screen: 
+![alt text](https://github.com/HasanxElwan/tokuApp/blob/main/screenshots/Screenshot%202022-06-30%20040540.png "")
+Colors Screen: 
+![alt text](https://github.com/HasanxElwan/tokuApp/blob/main/screenshots/Screenshot%202022-06-30%20040623.png "")
+Phrases Screen: 
+![alt text](https://github.com/HasanxElwan/tokuApp/blob/main/screenshots/Screenshot%202022-06-30%20040644.png "")
+Family Screen: 
+![alt text](https://github.com/HasanxElwan/tokuApp/blob/main/screenshots/Screenshot%202022-06-30%20040559.png "")
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
